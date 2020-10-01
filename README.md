@@ -1,3 +1,3 @@
 # Open-world-Android-Games
- PubG Mobie
+ PubG Mobile
  Pubg Mobile Lite
